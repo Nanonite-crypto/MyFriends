@@ -1,3 +1,5 @@
 -- List Of All My Friends ---
 
  ('friend', 'hwid')
+
+ ('g:/workon/root/Scripts/becomeAFriend.py', 'name')
